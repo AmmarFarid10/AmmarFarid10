@@ -10,9 +10,13 @@ Python developer with 8+ years of experience building applications and leading e
 - Delivery: Docker, CI and architecture documentation.
 
 ## Selected public work
+- [Runbook RAG](https://github.com/AmmarFarid10/runbook-rag): support-runbook retrieval with hybrid search, evaluation and cited outputs; optional local semantic models.
+- [Approval Ops Agent](https://github.com/AmmarFarid10/approval-ops-agent): a LangGraph reference workflow with persisted human approval and a transactional simulated refund ledger.
 - [AI Job Hunter](https://github.com/AmmarFarid10/ai-job-hunter): job discovery, verified profile matching and human-reviewed resume tailoring. External application submission is disabled in the current scope.
 - [Ammar AI](https://github.com/AmmarFarid10/ammar-ai): invitation-only local Ollama chat with FastAPI, streamed responses and a React interface.
 - [Blog Post API](https://github.com/AmmarFarid10/BlogPostAPI): a compact Django REST Framework learning project.
+
+- [Classifiers in Action](https://github.com/AmmarFarid10/KNN-Streamlit): an educational comparison of KNN, SVM and Random Forest.
 
 I am targeting Senior Python Backend Engineer, AI Engineer, LLM Engineer and Agentic AI Engineer roles.
 
