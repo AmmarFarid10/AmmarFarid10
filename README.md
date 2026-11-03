@@ -2,9 +2,13 @@
 
 ![Python Backend & AI Engineer](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1400&color=2E9EF7&width=620&lines=Python+Backend+%26+AI+Engineer;FastAPI+%7C+Microservices+%7C+RAG+%7C+AI+Agents)
 
-## Intro
+**Senior Python Backend Engineer · Applied AI**
 
-I’m a Python engineer with **8+ years of experience** building applications and leading engineering teams. My work spans FastAPI microservices, commerce data integrations, and applied AI. I build portfolio projects that show how retrieval, tool calling, and human review fit into a backend workflow.
+I lead work on FastAPI microservices and commerce data integrations, drawing on 8+ years of Python development. My public projects show how I build retrieval systems and agent workflows with explicit rules, tests, and human review.
+
+**Start here.** For a backend and agent walkthrough, run the Data Contract Agent demo to see how it investigates a CSV failure, previews a repair, and waits for a separate reviewer. For retrieval engineering, Vendor Evidence RAG includes an evaluation of lexical, dense, and hybrid search.
+
+[Data Contract Agent demo](https://github.com/AmmarFarid10/data-contract-agent#run-it) · [Vendor Evidence RAG evaluation](https://github.com/AmmarFarid10/vendor-evidence-rag/blob/main/docs/EXPERIMENTS.md)
 
 ## Professional Highlights
 
@@ -12,22 +16,6 @@ I’m a Python engineer with **8+ years of experience** building applications an
 - **Data integration** — Work with SQL Server, MongoDB, RabbitMQ, and Redis to synchronize commerce data across services.
 - **Engineering leadership** — Led a team of six developers on an education platform and currently lead work on FastAPI microservices.
 - **Applied AI** — Build cited RAG workflows, LangGraph agents, and local Ollama applications with reproducible demos and tests.
-
-## My Skills
-
-### Backend & Architecture
-
-![Python, FastAPI, Django, Flask, RabbitMQ, Git](https://skillicons.dev/icons?i=py,fastapi,django,flask,rabbitmq,git)
-
-### AI & Retrieval
-
-**LangGraph · RAG · FastEmbed · Ollama · OpenCV**
-
-### Databases & Infrastructure
-
-![MongoDB, PostgreSQL, Redis, Docker, Kubernetes, Azure, GitHub Actions](https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,kubernetes,azure,githubactions)
-
-**SQL Server · Azure Kubernetes Service**
 
 ## Selected Projects
 
@@ -45,8 +33,26 @@ I’m a Python engineer with **8+ years of experience** building applications an
 
 ## Open Source Contributions
 
-- **FastEmbed** — Fixed a zero-width image resize crash and added regression coverage. [PR #860](https://github.com/qdrant/fastembed/pull/860)
-- **Qdrant Client** — Fixed unordered worker mapping to preserve valid `None` results. [PR #1665](https://github.com/qdrant/qdrant-client/pull/1665)
+Both pull requests are open for maintainer review.
+
+- **FastEmbed** — Submitted a fix for a zero-width image resize crash with a regression test. [PR #860](https://github.com/qdrant/fastembed/pull/860)
+- **Qdrant Client** — Submitted a fix to preserve valid `None` results in unordered worker mapping. [PR #1665](https://github.com/qdrant/qdrant-client/pull/1665)
+
+## My Skills
+
+### Backend & Architecture
+
+![Python, FastAPI, Django, Flask, RabbitMQ, Git](https://skillicons.dev/icons?i=py,fastapi,django,flask,rabbitmq,git)
+
+### AI & Retrieval
+
+**LangGraph · RAG · FastEmbed · Ollama · OpenCV**
+
+### Databases & Infrastructure
+
+![MongoDB, PostgreSQL, Redis, Docker, Kubernetes, Azure, GitHub Actions](https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,kubernetes,azure,githubactions)
+
+**SQL Server · Azure Kubernetes Service**
 
 ## GitHub Stats
 
