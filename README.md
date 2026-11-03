@@ -21,6 +21,3 @@ Python developer with 8+ years of experience building applications and leading e
 
 - [Classifiers in Action](https://github.com/AmmarFarid10/KNN-Streamlit): an educational comparison of KNN, SVM and Random Forest.
 
-I am targeting Senior Python Backend Engineer, AI Engineer, LLM Engineer and Agentic AI Engineer roles.
-
-I value clear system boundaries, reproducible setup and honest documentation of what has been tested.
