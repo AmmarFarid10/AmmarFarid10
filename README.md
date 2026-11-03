@@ -10,6 +10,9 @@ Python developer with 8+ years of experience building applications and leading e
 - Delivery: Docker, CI and architecture documentation.
 
 ## Selected public work
+- [Vendor Evidence RAG](https://github.com/AmmarFarid10/vendor-evidence-rag): a supplier-quote comparison reference with pretrained retrieval, supported numeric requirements and source snapshots.
+- [Data Contract Agent](https://github.com/AmmarFarid10/data-contract-agent): a LangGraph CSV-quality investigation with policy-backed repair previews, independent review and immutable artifacts.
+- [Support Case Agent](https://github.com/AmmarFarid10/support-case-agent): verified customer/order tools, scoped policy retrieval and independently reviewed local reply artifacts.
 - [Runbook RAG](https://github.com/AmmarFarid10/runbook-rag): support-runbook retrieval with hybrid search, evaluation and cited outputs; optional local semantic models.
 - [Approval Ops Agent](https://github.com/AmmarFarid10/approval-ops-agent): a LangGraph reference workflow with persisted human approval and a transactional simulated refund ledger.
 - [AI Job Hunter](https://github.com/AmmarFarid10/ai-job-hunter): job discovery, verified profile matching and human-reviewed resume tailoring. External application submission is disabled in the current scope.
